@@ -1,0 +1,11 @@
+1. cd
+2. git init
+3. git add .
+4. git commit -m "New project uploaded on github"
+5. git remote add origin (repository link)
+6. git push origin master
+
+
+
+
+ 
